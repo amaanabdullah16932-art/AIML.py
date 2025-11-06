@@ -1,7 +1,4 @@
-num1 = float(input("enter no."))
-num2= float(input("enter 2 nd no,"))
-addition = num1 + num2
-substraction = num1 - num2
-product = num1*num2
-division = num1/num2
-print("add ans:-",addition,"sub ans:-",substraction,"product ans:-",product,"division ans:-",division)
+name = "AMAAN ABDULLAH"
+AGE=19
+SCHOOL = "METHODIST HIGH SCHOOL"
+print(f"my name is {name} and i am {AGE} years old. I completed my 12 th from {SCHOOL}")
